@@ -1,11 +1,32 @@
 ===theme settings
-"rules":
+{
+	"variables":
+	{
+		"my_blue_light": "rgb(93, 141, 171)",
+	},
+	"rules":
 	[
-		{ //маленький розмір відкритих вкладок
-    		"class": "tabset_control",
-    		"tab_height": 30,
-		}
-	]
+		{
+			//маленький розмір відкритих вкладок
+			"class": "tabset_control",
+			"tab_height": 30,
+		},
+		{
+        	"class": "tab_label",
+        	"parents": [{"class": "tab_control", "attributes": ["selected"]}],
+    		"fg": "var(my_blue_light)",
+    	},
+    	{
+    		"class": "tab_label",
+            "parents": [{"class": "tab_control", "attributes": ["hover"]}],
+            "fg": "var(my_blue_light)",
+    	},
+    	{
+    		"class": "tab_control",
+        	"attributes": ["selected"], "layer0.tint": "var(my_blue_light)",
+    	}
+	],
+}
 
 ===main settings
 {
