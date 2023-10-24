@@ -1,3 +1,5 @@
+![fish screenshot](./images/fish.png)
+
 ## Shell setup (Linux)
 
 - [Fish shell](https://fishshell.com/)
@@ -5,4 +7,3 @@
 - [Tide](https://github.com/IlanCosman/tide) - Shell theme.
 - [Nerd fonts](https://github.com/ryanoasis/nerd-fonts) - Powerline-patched fonts.
 - [Exa](https://the.exa.website/) - `ls` replacement
-
