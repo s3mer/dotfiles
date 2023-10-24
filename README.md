@@ -10,4 +10,4 @@
 
 ## Sublime
 
-- [A File Icon](https://packagecontrol.io/packages/A%20File%20Icon)
+- [A File Icon](https://github.com/SublimeText/AFileIcon)
