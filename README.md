@@ -1,7 +1,6 @@
-![fish screenshot](./images/fish.png)
-![vim-airline screenshot](./images/vim-airline.png)
-
 ## Shell setup (Linux)
+
+![fish screenshot](./images/fish.png)
 
 - [Fish shell](https://fishshell.com/)
 - [Fisher](https://github.com/jorgebucaran/fisher) - Plugin manager
@@ -14,6 +13,8 @@
 - [A File Icon](https://github.com/SublimeText/AFileIcon)
 
 ## VIM
+
+![vim-airline screenshot](./images/vim-airline.png)
 
 - [vim-plug](https://github.com/junegunn/vim-plug) - Minimalist Vim Plugin Manager
 
