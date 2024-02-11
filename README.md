@@ -24,4 +24,4 @@
 - [vim-misc](https://github.com/xolox/vim-misc)
 - [nerdtree](https://github.com/preservim/nerdtree) - A tree explorer plugin for vim
 - [vim-airline](https://github.com/vim-airline/vim-airline) - lean & mean status/tabline for vim that's light as air
-- [vim-airline-themes]() - A collection of themes for vim-airline
+- [vim-airline-themes](https://github.com/vim-airline/vim-airline-themes) - A collection of themes for vim-airline
